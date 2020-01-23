@@ -28,6 +28,10 @@ exclude:
   - Gemfile.lock
   - pom.xml
 
+
+  exclude: [vendor]
+
+
 docs_dir: '/docs'
 docs_img_dir: '/docs/img'
 docs_pdf_dir: 'https://github.com/DataSketches/DataSketches.github.io/blob/master/docs/pdf'
