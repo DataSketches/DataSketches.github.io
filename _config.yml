@@ -15,21 +15,7 @@
 
 # example: <img class="doc-img-full" src="{{site.docs_img_dir}}PeopleCloud.png" alt="PeopleCloud" />
 
-exclude: 
-  - DISCLAIMER-WIP
-  - LICENSE
-  - NOTICE
-  - README.md
-  - tmp/
-  - target/
-  - test-output/
-  - local/
-  - Gemfile
-  - Gemfile.lock
-  - pom.xml
-
-
-  exclude: [vendor]
+exclude: [ DISCLAIMER-WIP, LICENSE, NOTICE, README.md, tmp/, target/, test-output/, local/, Gemfile, Gemfile.lock, pom.xml, vendor ]
 
 
 docs_dir: '/docs'
