@@ -22,7 +22,11 @@ id: home
     specific language governing permissions and limitations
     under the License.
 -->
+<<<<<<< HEAD
 
+=======
+<meta http-equiv="refresh" content="0; url=https://datasketches.apache.org/" />
+>>>>>>> branch 'master' of git@github.com:DataSketches/DataSketches.github.io.git
 <!-- Start index.md -->
 <link rel="stylesheet" type="text/css" href="css/index.css">
 <link rel="stylesheet" type="text/css" href="css/header.css">

@@ -38,4 +38,7 @@ vendor/
 .paper/
 tmp/
 /local/
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of git@github.com:DataSketches/DataSketches.github.io.git
