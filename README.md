@@ -17,4 +17,4 @@
     under the License.
 -->
 
-[This repo has been moved to Apache DataSketches!](https://github.com/apache/datasketches-website/)
+[This repo has been moved to Apache DataSketches](https://github.com/apache/datasketches-website/)
